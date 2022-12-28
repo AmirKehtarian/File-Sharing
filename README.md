@@ -2,7 +2,7 @@ File-Sharing
 A Project with NodeJs, ExpressJs, MongoDB, Mongoose
 
 Config
-npm install
+#npm install
 
 #run 
 npm run dev
