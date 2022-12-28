@@ -4,8 +4,8 @@ A Project with NodeJs, ExpressJs, MongoDB, Mongoose
 Config
 #npm install
 
-#run 
-npm run dev
+run 
+#npm run dev
 
-#Port 
-localhost:4444
+Port 
+#localhost:4444
