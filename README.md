@@ -8,6 +8,7 @@ in server.js:
 2. process.env.PORT = 4444 (or your fav Port)
 
 in terminal or command line:
+
 3. npm install
 4. npm run dev
 
